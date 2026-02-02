@@ -77,4 +77,16 @@ All examples include commented code and practical demonstrations.
 
 # ✅ Task 4 — Python Inheritance
 
-**Resource:** W3Schools — Python Inheritance Tuto
+**Resource:** W3Schools Python Inheritance
+## Topics Covered
+- Parent and child class relationships
+- Using super() to call parent methods
+- Method overriding
+ - Multiple inheritance
+ - Abstract base classes (optional advanced topic)
+## Requirements:
+
+- Read inheritance tutorials
+- Create at least 4 examples showing inheritance patterns
+- Include examples of method overriding and super() usage
+
